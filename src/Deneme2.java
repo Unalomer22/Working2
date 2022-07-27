@@ -3,5 +3,12 @@ public class Deneme2 {
 
 
         System.out.println("true = " + true);
+
+        int x = 0;
+        while (x<10){
+            System.out.println("Naber?");
+            x++;
+        }
+
     }
 }
